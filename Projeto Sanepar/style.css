@@ -1,0 +1,19 @@
+body {
+    background: rgb(40, 157, 235); 
+}
+healder {
+    color: white;
+    text-align: center;
+}
+section {
+    background:  rgb(40, 86, 235);
+    color: white;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+}
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
